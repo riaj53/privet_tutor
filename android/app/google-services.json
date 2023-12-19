@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542089691589",
+    "project_id": "privet-tutor",
+    "storage_bucket": "privet-tutor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542089691589:android:2975414a42395ae00dcbac",
+        "android_client_info": {
+          "package_name": "com.example.privet_tutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnSCEJXrzGdQA75j2cQ1vBNvxH66CdXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
